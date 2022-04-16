@@ -1,0 +1,14 @@
+{
+  "name": "api-sample",
+  "version": "1.0.0",
+  "description": "Simple API for Wizeline's Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivan.crz09@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
