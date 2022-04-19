@@ -1,4 +1,5 @@
 # api-sample
+It's an small api built with NodeJS and Express
 
 ## Requirements
 * Need to have nodejs installed version **v14.19.1** or **Higher**
